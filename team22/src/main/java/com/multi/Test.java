@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("manex3");
 		System.out.println("YSL");
 		System.out.println("JDH");
+		System.out.println("드디어 해결");
 		
 	}
 
