@@ -14,6 +14,7 @@ public class Test {
 		System.out.println("coding start");
 		System.out.println("진ㅉ최종2");
 		System.out.println("찐막");
+		System.out.println("찐막");
 	}
 
 }
