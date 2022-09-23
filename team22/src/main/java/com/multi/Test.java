@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("JDH");
 		System.out.println("드디어 해결");
 		System.out.println("coding start");
+		System.out.println("진ㅉ최종2");
 	}
 
 }
